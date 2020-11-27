@@ -19,8 +19,8 @@
     "swagger-node-runner": "peter-kiss-epam/swagger-node-runner"
   },
   "devDependencies": {
-    "lodash": "^3.9.3",
-    "mocha": "^2.2.1",
+    "lodash": "^4.17.20",
+    "mocha": "^8.2.1",
     "should": "^5.2.0"
   },
   "scripts": {
